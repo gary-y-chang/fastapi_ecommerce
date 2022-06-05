@@ -1,0 +1,17 @@
+pony==0.7.14
+python-decouple
+passlib[bcrypt]
+pyjwt
+redis
+mysqlclient
+fastapi-mail==0.4.1
+python-dotenv==0.19.0
+google-cloud
+google-cloud-storage
+google-api-python-client
+gunicorn==20.0.4
+uvicorn==0.15.0
+fastapi==0.68.1
+python-multipart==0.0.5
+python-dateutil==2.8.2
+pycryptodome
